@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MusicVideo/Assets/scripts/HumanMove.cs">
+    <Files>
+      <File FileName="../day3/Assets/scripts/badflower.cs" Line="17" Column="68" />
+      <File FileName="../MusicVideo/Assets/scripts/HumanMove.cs" Line="14" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
